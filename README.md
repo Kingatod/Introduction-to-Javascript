@@ -2,4 +2,4 @@
 
 Write a javascript code that prints out your name, height, and country on the screen
 
-https://kingatod.github.io/Introduction-to-Javascript/
+Link to Page: https://kingatod.github.io/Introduction-to-Javascript/
